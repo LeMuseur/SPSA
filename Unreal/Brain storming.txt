@@ -1,7 +1,7 @@
 -Shooter
 -3D
 -Boss Uniquement
--Arme change à chaque boss(évolue)
+-Arme change a chaque boss(evolue)
 -TPS
 -Map Construite
--Pack de soin / munition/ certaine structure en placement procédurale
+-Pack de soin / munition/ certaine structure en placement procedurale
