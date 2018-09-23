@@ -3352,3 +3352,23 @@ LogInit: Object subsystem initialized
 [2018.09.17-16.30.25:413][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimStarterPack/Anim_Joueur]
 [2018.09.17-16.30.25:454][395]LogSavePackage: Moving 'E:/Mathurin/Documents/SPSA/Unreal/proto_shooter_TPS/Saved/Anim_Joueur_Auto2DB88438A4CDD376FB28D8BA1EA5540F5.tmp' to 'E:/Mathurin/Documents/SPSA/Unreal/proto_shooter_TPS/Saved/Autosaves/Game/Mannequin/AnimStarterPack/Anim_Joueur_Auto2.uasset'
 [2018.09.17-16.30.25:455][395]LogFileHelpers: Auto-saving content packages took 0.044
+[2018.09.17-16.39.57:141][ 95]LogInit: XAudio2 using 'Haut-parleurs (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.17-18.26.05:418][325]LogInit: XAudio2 using 'VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.17-18.26.23:135][378]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.17-18.26.35:828][416]LogInit: XAudio2 using 'CABLE Input (VB-Audio Virtual Cable)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.17-18.26.44:185][441]LogInit: XAudio2 using 'VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.17-18.26.59:876][488]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.17-20.04.04:543][899]LogRenderer: Reallocating scene render targets to support 1076x716 Format 10 NumSamples 1 (Frame:12708).
+[2018.09.17-22.56.23:475][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.19-09.56.48:627][340]LogHttp: Warning: 00000211877B9A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.19-09.56.48:628][340]LogHttp: Warning: 00000211877B9A80: libcurl info message cache 0 (Connection 1498 seems to be dead!)
+[2018.09.19-09.56.48:628][340]LogHttp: Warning: 00000211877B9A80: libcurl info message cache 1 (Closing connection 1498)
+[2018.09.19-09.56.48:628][340]LogHttp: Warning: 00000211877B9A80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.09.19-09.56.48:628][340]LogHttp: Warning: 00000211877B9A80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.19-09.56.48:628][340]LogHttp: Warning: 00000211877B9A80: libcurl info message cache 4 (Closing connection 1499)
+[2018.09.19-09.58.49:029][698]LogHttp: Warning: 00000211877B9A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.19-09.58.49:029][698]LogHttp: Warning: 00000211877B9A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.19-09.58.49:029][698]LogHttp: Warning: 00000211877B9A80: libcurl info message cache 1 (Closing connection 1500)
+[2018.09.19-10.00.49:452][ 56]LogHttp: Warning: 00000211877B9A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.19-10.00.49:452][ 56]LogHttp: Warning: 00000211877B9A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.19-10.00.49:452][ 56]LogHttp: Warning: 00000211877B9A80: libcurl info message cache 1 (Closing connection 1501)
